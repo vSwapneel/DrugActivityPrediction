@@ -7,3 +7,6 @@ The goal of this competition is to allow you to develop predictive models that c
 A molecule can be represented by several thousands of binary features which represent their topological shapes and other characteristics important for binding.
 
 Since the dataset is imbalanced the scoring function will be the F1-score instead of Accuracy.
+
+
+The Classifier used here is Bernoulli Naive Bayes, with alpha value set as 1. 
